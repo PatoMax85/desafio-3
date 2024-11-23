@@ -1,0 +1,201 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*TITULO IGUANAS*/
+body {
+  width: 1280px;
+}
+
+header {
+  display: flex;
+  background-color: black;
+  justify-content: center;
+}
+
+h1 {
+  color: white;
+  width: 221px;
+  height: 59px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.Raleway {
+  font-family: "Raleway", serif;
+  font-size: 50px;
+  font-style: normal;
+}
+/*PRIMERA FOTO IGUANA*/
+.fondoiguana {
+  width: 1280px;
+  height: 727px;
+}
+nav {
+  background: transparent;
+  opacity: 1;
+  width: 1280px;
+  height: 727px;
+}
+/*DESCRIPCIÓN IGUANA*/
+main {
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  height: 348px;
+  width: 1280px;
+}
+.iguana-1 {
+  width: 399px;
+  height: 237px;
+  background: transparent;
+  opacity: 1;
+  margin-right: 150px;
+  margin-top: 45px;
+  margin-bottom: 66px;
+}
+p {
+  width: 475px;
+  height: 197px;
+  color: #ffffff;
+  text-align: justify;
+  letter-spacing: 0px;
+  opacity: 1;
+  font-family: "Raleway", serif;
+  font-size: 16px;
+  font-style: normal;
+  margin-left: 150px;
+  margin-top: 76px;
+  margin-bottom: 75px;
+}
+
+/*CARACTERÍSTICAS IGUANA*/
+.caracteristicas {
+  background-color: #1e1a13;
+  text-align: center;
+  color: #ffffff;
+  font-family: "Raleway", serif;
+  font-size: 40px;
+  font-style: normal;
+  padding-top: 75px;
+  padding-left: 463, 5%;
+  padding-right: 460, 5px;
+  height: 348px;
+}
+
+.flex {
+  display: flex;
+  gap: 0px;
+  justify-content: center;
+  color: #ffffff;
+  width: 1280px;
+}
+
+.div1 {
+  width: 426px;
+  height: 203px;
+  line-height: 5%;
+}
+.div2 {
+  width: 426px;
+  height: 203px;
+  line-height: 5%;
+}
+.div3 {
+  width: 426px;
+  height: 203px;
+  line-height: 5%;
+}
+
+.far {
+  width: 57px;
+  height: 36, 64px;
+  margin-top: 40px;
+  padding-left: 0%;
+}
+.fa-regular {
+  width: 39, 17;
+  height: 55, 8;
+  margin-top: 40px;
+}
+
+.fas {
+  width: 40, 93px;
+  height: 48, 61px;
+  margin-top: 40px;
+}
+
+.ojo {
+  width: 108px;
+  height: 29px;
+  margin-left: 175px;
+}
+.pacificas {
+  width: 98px;
+  height: 30px;
+  margin-left: 175px;
+}
+
+.color {
+  width: 202px;
+  height: 30px;
+  margin-left: 150px;
+}
+/*FOTOS IGUANA*/
+.fotos {
+  display: flex;
+  justify-content: center;
+  background-color: #000000;
+  width: 1280px;
+  height: 348px;
+}
+.iguana-2 {
+  width: 316px;
+  height: 202px;
+  padding: 10px;
+  display: block;
+  margin: auto;
+  margin-right: 2px;
+  background: transparent;
+  opacity: 1;
+}
+.iguana-3 {
+  width: 316px;
+  height: 202px;
+  padding: 10px;
+  display: block;
+  margin: auto;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background: transparent;
+  opacity: 1;
+}
+.iguana-4 {
+  width: 316px;
+  height: 202px;
+  padding: 10px;
+  display: block;
+  margin: auto;
+  margin-left: 2px;
+  background: transparent;
+  opacity: 1;
+}
+/*FOOTER*/
+footer {
+  width: 1280px;
+  height: 102px;
+  background-color: #1e1a13;
+  padding-top: 0%;
+}
+.web {
+  width: 682px;
+  height: 24px;
+  size: 20px;
+  color: #ffffff;
+  font-family: "Raleway", light;
+  margin: auto;
+  padding: 40px;
+}
